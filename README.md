@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:30px; display: inline-block;" data-target="animated-image.originalImage">, I am Maha AlAtawi !
-![GitHub User's stars](https://img.shields.io/github/stars/imahacs)
+![GitHub watchers](https://img.shields.io/github/watchers/imahacs/imahacs)
 
 - 🔭 I’m interested in Development App & web & VR
 - 🌱 I’m currently learning Flutter & Laravel
