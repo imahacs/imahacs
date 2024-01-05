@@ -1,4 +1,6 @@
-### Hi there <img sre="[https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)" width="30px">, I am Maha AlAtawi !
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:30px; display: inline-block;" data-target="animated-image.originalImage">, I am Maha AlAtawi !
+![GitHub User's stars](https://img.shields.io/github/stars/imahacs)
+
 - 🔭 I’m interested in Development App & web & VR
 - 🌱 I’m currently learning Flutter & Laravel
 - 👯 I’m looking to collaborate
