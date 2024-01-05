@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m interested in Development App & web & VR
+- 🌱 I’m currently learning Flutter & Laravel
+- 👯 I’m looking to collaborate
+- 📫 How to reach me: @mhainn(http://linkedin.com/in/mhainn)
 <!--
 **imahacs/imahacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
