@@ -1,5 +1,4 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:30px; display: inline-block;" data-target="animated-image.originalImage">, I am Maha AlAtawi !
-![GitHub watchers](https://img.shields.io/github/watchers/imahacs/imahacs)
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2F0nnei&label=Following%20me%20on%20X)
 
 - 🔭 I’m interested in Development App & web & VR
@@ -14,6 +13,8 @@
 
 
 <!--
+![GitHub watchers](https://img.shields.io/github/watchers/imahacs/imahacs)
+
 **imahacs/imahacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
